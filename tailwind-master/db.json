@@ -1,0 +1,43 @@
+{
+    
+  "courses": [
+    { 
+       "id": 1,
+       "title": "React JS",
+       "level": "Beginner",
+       "lession": 12,
+       "desc": "Learn to build dynamic UIs with React." 
+    }, { 
+        "id": 2,
+        "title": "HTML & CSS",
+        "level": "Beginner",
+        "lession": 10,
+        "desc": "Master the building blocks of the web."
+    }, {
+        "id": 3,
+        "title": "JavaScript",
+        "level": "Intermediate",
+        "lession": 15,
+        "desc": "Deep dive into modern JavaScript." 
+    }, { 
+        "id": 4,
+        "title": "Node.js & Express",
+        "level": "Intermediate", 
+        "lession": 14,
+        "desc": "Build backend APIs with Node.js."
+    }, {
+        "id": 5,
+        "title": "Tailwind CSS", 
+        "level": "Beginner",
+        "lession": 8, 
+        "desc": "Style modern apps with utility-first CSS."
+    },{ 
+        "id": 6, 
+        "title": "Python Programming",
+        "level": "Beginner",
+        "lession": 18, 
+        "desc": "Learn Python for web and data science."
+    }
+  ]
+}
+
